@@ -1,0 +1,4 @@
+[submodule "midre-odoo/sh_training_fun_for_all"]
+	path = midre-odoo/sh_training_fun_for_all
+	url = git@github.com:midre-odoo/sh_training_fun_for_all.git
+	branch = main
